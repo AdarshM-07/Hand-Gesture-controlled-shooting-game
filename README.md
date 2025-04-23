@@ -45,13 +45,13 @@ A fun and interactive computer vision-based game built using Python and Pygame, 
    python main.py
 
 ## 🎮 How to Play
-	-	Use a green object (like a stick or cap) in front of your webcam.
-	-	The left side of the screen detects direction and speed (angle + velocity).
-	-	Show green on the right side of the camera view to trigger a projectile.
-	-	The projectile will fire in the detected direction to hit the moving green block.
+	- Use a green object (like a stick or cap) in front of your webcam.
+	- The left side of the screen detects direction and speed (angle + velocity).
+	- Show green on the right side of the camera view to trigger a projectile.
+	- The projectile will fire in the detected direction to hit the moving green block.
 	-	Hit the block to score!
 ## 📝 Notes
-	-	Make sure your webcam is working and there’s enough lighting.
-	-	You can replace the background image by modifying the path to your own image in the code:
+	- Make sure your webcam is working and there’s enough lighting.
+	- You can replace the background image by modifying the path to your own image in the code:
    ```python
    pygame.image.load("/path/to/your/background.jpg")
