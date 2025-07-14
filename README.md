@@ -1,6 +1,6 @@
-# Welcome to Bomb Dodge  🎮💣
+# Welcome to my shooting game  🎮💣
 
-A fun and interactive computer vision-based game built using Python and Pygame, where you dodge obstacles and hit moving targets by detecting gestures from your webcam in real time. Uses computer vision to estimate angles and velocity from green-colored object movements and fires projectiles accordingly.
+A fun and interactive computer vision-based game built using Python and Pygame, where you hit moving targets by detecting gestures from your webcam in real time. Uses computer vision to estimate angles and velocity from green-colored object movements and fires projectiles accordingly.
 
 ---
 
